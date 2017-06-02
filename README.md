@@ -10,7 +10,7 @@ Você pode baixar o repositório aqui [Download ZIP](https://github.com/modugno/
 ## Como Usar
 * Chame o script na página
 
-``` javascript
+```html
 <script src="cep.js"></script>
 ```
 
