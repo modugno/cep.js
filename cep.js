@@ -23,8 +23,6 @@ class Cep {
 			Object.assign(this.settings, settings);
 		}
 
-		console.log(this.settings);
-		return;
 		// retorna os inputs da página
 		this.input = this._getInputs(element);
 
